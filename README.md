@@ -42,7 +42,7 @@ This project contains interactive Jupyter notebooks that teach essential Python 
 ## Installation
 
 ```bash
-pip install numpy jupyter
+pip install numpy jupyter math datetime scipy collections matplotlib seaborn pandas warnings
 ```
 
 ## Usage
