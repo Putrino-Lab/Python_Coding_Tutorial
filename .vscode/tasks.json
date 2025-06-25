@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Install Dependencies and Launch Jupyter",
+			"type": "shell",
+			"command": "pip install -r requirements.txt && jupyter notebook python_basics_tutorial.ipynb",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
